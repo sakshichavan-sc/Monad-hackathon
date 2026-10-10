@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="513" height="125" viewBox="0 0 513 125" role="img" aria-labelledby="title">
+<title id="title">DataForge</title>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7c5cff"/><stop offset="1" stop-color="#22d3ee"/></linearGradient></defs>
+<g transform="translate(8 13)"><path d="M48 0 88 23v46L48 92 8 69V23Z" fill="none" stroke="url(#g)" stroke-width="6"/><path d="m48 19 23 13v27L48 72 25 59V32Z" fill="url(#g)" opacity=".22"/><path d="m25 32 23 13 23-13M48 45v27M25 59l23-14 23 14" fill="none" stroke="url(#g)" stroke-width="4" stroke-linejoin="round"/></g>
+<text x="112" y="69" font-family="Inter,Arial,sans-serif" font-size="48" font-weight="750" letter-spacing="-1.5" fill="currentColor">DataForge</text>
+<text x="115" y="94" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="3.1" fill="#8b8ca7">LABEL · VERIFY · EARN</text>
+</svg>
