@@ -1,4 +1,4 @@
-#  DataForge — Label · Verify · Earn
+
 
 ### A blockchain-powered marketplace for data-labeling bounties.
 
@@ -6,17 +6,16 @@
 
 DataForge connects dataset creators with contributors who complete annotation tasks. Creators fund bounties, contributors submit labels, and creators review submissions before eligible rewards are paid through a smart contract.
 
-<p align="center">
-  <a href=" "> Live Demo</a> ·
-  <a href="YOUR_GITHUB_REPOSITORY_URL">💻 Source Code</a> ·
-  <a href="https://testnet.monadexplorer.com/address/0xbb6972aa4d393a8142afe67151ffe86d2d21cb9b">⛓️ View Contract</a>
+p align="center">
+  <a href="https://monad-hackathon1.vercel.app"><strong> Live Demo</strong></a>
+  ·
+  <a href="https://github.com/sakshichavan-sc/Monad-hackathon"><strong> Source Code</strong></a>
+  ·
+  <a href="https://testnet.monadexplorer.com/address/0xbb6972aa4d393a8142afe67151ffe86d2d21cb9b"><strong>🔎 Contract on Monad Explorer</strong></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Network-Monad%20Testnet-836EF9" alt="Monad Testnet" />
-  <img src="https://img.shields.io/badge/Chain%20ID-10143-blue" alt="Chain ID 10143" />
-  <img src="https://img.shields.io/badge/Status-Hackathon%20Prototype-orange" alt="Hackathon Prototype" />
-</p>
+Network: Monad Testnet · Chain ID: 10143
+
 
 ---
 
@@ -37,33 +36,23 @@ DataForge brings dataset annotation and Web3 incentives into one workflow.
 
 ## 🖥️ Product Showcase
 
-> Screenshots below demonstrate the interface and the transaction evidence available for this prototype.
-
 ### 01. Creator Dashboard
 
 Manage bounties, review submitted annotations, and monitor reward information.
 
-![DataForge Creator Dashboard](docs/screenshots/creator-dashboard.png)
-
 ### 02. Data-Labeling Bounty
 
-Explore the Fruit Image Labeling for AI demo and its annotation task.
-
-![DataForge Bounty Details](docs/screenshots/bounty-details.png)
+Explore the Image Labeling for AI demo and its annotation task.
 
 ### 03. On-Chain Transaction Proof
 
 Inspect the confirmed Monad Testnet transaction used in the demo.
-
-![Monad Testnet Transaction](docs/screenshots/monad-transaction.png)
 
 [**Open the bounty contract on Monad Explorer →**](https://testnet.monadexplorer.com/address/0xbb6972aa4d393a8142afe67151ffe86d2d21cb9b)
 
 ### 04. My Bounties
 
 View created bounties, reward pools, and available progress information.
-
-![DataForge My Bounties](docs/screenshots/my-bounties.png)
 
 ---
 
@@ -286,8 +275,18 @@ We want to make data labeling more accessible, transparent, and rewarding by con
 DataForge explores how blockchain-based bounties can support a community-driven approach to AI training data.
 
 ---
+---
 
-<p align="center">
-  <strong>Built for the Monad ecosystem.</strong><br/>
-  DataForge — <strong>Label · Verify · Earn ⚡</strong>
-</p>
+## 📸 Project Screenshots
+
+### 1. Bounty Dashboard
+![Bounty Dashboard](screenshots/bounty-dashboard.png)
+
+### 2. Bounty Created
+![Bounty Created](screenshots/bounty-created.png)
+
+### 3. Approve the Work
+![Approve the Work](screenshots/approve-the-work.png)
+
+### 4. Monad Explorer Transaction
+![Monad Explorer Transaction](screenshots/explorer.png)
